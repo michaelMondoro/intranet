@@ -1,2 +1,2 @@
 # intranet
-Modular web. infrastructure
+Modular web infrastructure
